@@ -1,0 +1,13 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kunci signing jangan pernah masuk repo.
+*.jks
+*.keystore
+keystore.properties

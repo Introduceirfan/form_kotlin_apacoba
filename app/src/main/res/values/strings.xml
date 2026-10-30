@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Form Produksi</string>
+    <string name="error_title">Server tidak terjangkau</string>
+    <string name="error_body">Periksa koneksi WiFi pabrik, lalu coba lagi.</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="exit_hint">Tekan sekali lagi untuk keluar</string>
+    <string name="link_blocked">Link eksternal diblokir</string>
+    <string name="camera_denied">Izin kamera ditolak</string>
+</resources>
